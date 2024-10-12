@@ -1,2 +1,2 @@
 # technicalbooks-dump
-toy implementations of cs books I've read.
+toy implementations and exercises from cs books I've read.
